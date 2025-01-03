@@ -123,14 +123,6 @@ const Header = () => {
               </li>
               <li>
                 <Link
-                  href={"contact"}
-                  className="text-[#FFFFFF] font-semibold hover:text-orange-500 transition-colors duration-300"
-                >
-                  Contact us
-                </Link>
-              </li>
-              <li>
-                <Link
                   href={"clone"}
                   className="flex items-center gap-1 text-[#FFD3AF] hover:text-orange-500 transition-colors duration-300"
                 >
